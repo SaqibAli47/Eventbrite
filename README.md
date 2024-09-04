@@ -223,7 +223,7 @@ coding guidelines or other things you want people to follow should follow.
 
 **Version Control**
    - Commit code frequently with clear and descriptive commit messages.
-   - Use feature branches for new features or significant changes, and merge them into `staging` or `production` through pull requests.
+   - Use feature branches for new features or significant changes, and merge them into `development` or  through pull requests.
 
 **Code Reviews**
    - Participate in code reviews to ensure code quality and share knowledge.
