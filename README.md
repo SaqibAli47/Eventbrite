@@ -173,9 +173,7 @@ It can't get better then this, your pull request will be appreciated by the comm
 
 I use an agile continuous integration methodology, so the version is frequently updated and development is really fast.
 
-1. **`staging`** is the development branch.
-
-2. **`production`** is the production branch.
+1. **`development`** is the development branch.
 
 3. No other permanent branches should be created in the main repository, you can create feature branches but they should get merged with the master.
 
@@ -190,7 +188,7 @@ I use an agile continuous integration methodology, so the version is frequently 
 
 **Steps to create a pull request**
 
-1. Make a PR to `staging` branch.
+1. Make a PR to `development` branch.
 2. Comply with the best practices and guidelines e.g. where the PR concerns visual elements it should have an image showing the effect.
 3. It must pass all continuous integration checks and get positive reviews.
 
