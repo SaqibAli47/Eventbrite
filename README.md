@@ -116,8 +116,6 @@ This project also utilizes:
 
 The app will be available at `http://localhost:3000`.
 
-### :file_folder: File Structure
-
 ###  :file_folder: File Structure
 ```
 .
